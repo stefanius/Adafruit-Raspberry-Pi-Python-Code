@@ -8,15 +8,15 @@
 
 #17 = groen X
 #22=bruin X
-#12=geel
-#16=oranje
-#20=rood
+#12=geel = DB05
+#16=oranje = E
+#20=rood = RS
 #21=blauw X
 
 #diff = 
 
 #orinal    def __init__(self, pin_rs=25, pin_e=24, pins_db=[23, 17, 21, 22], GPIO=None):
-#my           def __init__(self, pin_rs=25, pin_e=24, pins_db=[23, 17, 21, 22], GPIO=None):
+#my           def __init__(self, pin_rs=20, pin_e=16, pins_db=[12, 17, 21, 22], GPIO=None):
 
 from time import sleep
 
