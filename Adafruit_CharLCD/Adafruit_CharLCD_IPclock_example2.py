@@ -21,3 +21,4 @@ def run_cmd(cmd):
     ipaddr = run_cmd(cmd)
     lcd.message(datetime.now().strftime('%b %d  %H:%M:%S\n'))
     lcd.message('IP-henk %s' % (ipaddr))
+    sleep(10);
