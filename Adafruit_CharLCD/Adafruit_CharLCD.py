@@ -6,6 +6,18 @@
 # LiquidCrystal - https://github.com/arduino/Arduino/blob/master/libraries/LiquidCrystal/LiquidCrystal.cpp
 #
 
+#17 = groen X
+#22=bruin X
+#12=geel
+#16=oranje
+#20=rood
+#21=blauw X
+
+#diff = 
+
+#orinal    def __init__(self, pin_rs=25, pin_e=24, pins_db=[23, 17, 21, 22], GPIO=None):
+#my           def __init__(self, pin_rs=25, pin_e=24, pins_db=[23, 17, 21, 22], GPIO=None):
+
 from time import sleep
 
 
